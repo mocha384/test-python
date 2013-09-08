@@ -1,2 +1,2 @@
-test-problems
+test-python
 =============
